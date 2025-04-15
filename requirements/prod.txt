@@ -112,7 +112,7 @@ raven==5.10.2
 receipts==0.2.10
 redis==2.10.5
 # requests is required by responses, basket-client
-requests==2.9.1
+requests==2.32.2
 requests_oauthlib==0.4.1
 signing_clients==0.1.14
 # six is required by cryptography, django-extensions, easy-thumbnails, pip-tools, sphinxcontrib-httpdomain, translate-toolkit, html5lib, elasticsearch-dsl, bleach, pyOpenSSL, responses
