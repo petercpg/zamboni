@@ -17,7 +17,7 @@ boto==2.39.0
 # cef is required by heka-py-cef
 cef==0.5
 celery==3.1.20
-certifi==2015.11.20.1
+certifi==2024.7.4
 chardet==2.3.0
 # click is required by dennis
 click==6.2
