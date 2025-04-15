@@ -125,7 +125,7 @@ statsd==3.2.1
 suds==0.4
 responses==0.5.0
 # urllib3 is required by elasticsearch
-urllib3==1.13.1
+urllib3==1.26.19
 
 ## Not on pypi.
 -e git+https://github.com/mozilla/app-validator.git@2f8f85c4e83d1a76bb39c9f4b6844a7de7259711#egg=app-validator
