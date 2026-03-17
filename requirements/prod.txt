@@ -96,7 +96,7 @@ polib==1.0.7
 protobuf==2.5.0
 puente==0.4.1
 # pyasn1 is required by app-validator, cryptography
-pyasn1==0.1.9
+pyasn1==0.6.3
 PyBrowserID==0.6
 # pycparser is required by cffi
 pycparser==2.14
